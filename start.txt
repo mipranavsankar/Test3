@@ -1,4 +1,4 @@
-version 1.4
+version 2.4
 date : 16.01.2021
 
 
@@ -6,5 +6,8 @@ Eclipse
 STS 
 VS Code
 
+spring boot 
+Angular
 
-done
+
+done iin b1
